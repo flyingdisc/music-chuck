@@ -55,6 +55,7 @@ ChannelMandolin cm2;
 ChannelMandolin cm3;
 
 // create mandolin STK instruments on 3 channels
+//                        pluck     damping   body
 cm1.createChannel(2, 0.3, 0.3, 0.6, 0.7, 0.9, 0.3, 0.5, 1);
 cm2.createChannel(3, 0.3, 0.5, 0.8, 0.4, 0.6, 0.2, 0.3, 0);
 cm3.createChannel(4, 0.3, 0.2, 0.3, 0.7, 0.8, 0.3, 0.4, 1);
