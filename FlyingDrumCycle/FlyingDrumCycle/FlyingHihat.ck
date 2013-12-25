@@ -1,3 +1,4 @@
+// @Soesilo Wijono
 // FlyingHihat.ck
 // Assignment_7_Flying_DrumCycles
 // this is composition file to play hihats SndBuf
